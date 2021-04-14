@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{ 
+  margin:0px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; 
+  font-size:14px; background:url(../images/main-bg.png);
+}
+
+img
+{	border:none;
+}
+
+.menu
+{ background:url(../images/menu-cntr.png); background-repeat:repeat-x;
+}
+
+.menu-cntr
+{
+   font-size:18px; color:#FFF; padding:7px; margin:0px;
+}
+.menu-cntr ul
+{
+	margin:0;
+	padding:0px ;
+}
+
+.menu-cntr li
+{
+	margin:0;
+	float:left;
+	list-style:none;
+	 padding:8px;
+	 background:url(../images/menu-li-bg.png); background-repeat:no-repeat;
+	
+}
+
+.menu-cntr li a
+{ 
+	color:#FFF;
+	padding:15px 15px 11px 15px; text-decoration:none;
+}
+
+.menu-cntr li a:hover
+{ color:#000;
+}
+
+.products
+{
+	font-size:14px; font-family:Arial, Helvetica, sans-serif; color:#601c06; font-weight:bold; padding-left:15px;
+	
+}
+.products ul
+{
+	margin:0;
+	padding:0px;
+}
+.products li
+{
+	margin:0px 0 0px 0 ;
+	padding:5px 0 0px 22px;
+	list-style:none;
+	background:url(../images/arrow.jpg) no-repeat top left;
+	background-position:0 10px;
+	border-bottom:#000 1px solid; margin:0px;
+	padding:5px 5px 15px 15px;
+	
+	
+}
+
+.products li a
+{ text-decoration:none; color:#601c06; 
+
+}
+
+.products li a:hover
+{ color:#900;
+}
+
+
+
+
+
+
+
+
+
+.mouth
+{ color:#601c06; font-size:22px; font-weight:bold;
+}
+
+.find
+{ font-size:18px; color:#FFF; 
+}
+
+.welcome
+{ background:#FFF; background-repeat:repeat-y;
+}
+
+.cantent
+{ font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal;
+}
+
+.hot
+{ background:url(../images/hot-product-cntr.jpg); background-repeat:repeat-x;
+}
+
+.quote
+{ background:url(../images/quick-queck-cntr.png); background-repeat:repeat-y;
+}
+
+.futr
+{ background:url(../images/futtor.png) left bottom repeat-x; 
+}
+
+.design
+{ color:#FFF; font-size:12px;
+padding:0px 10px;
+}
+
+.inside-box
+{ color:#000; text-decoration:none;
+}
+
+.inside-box a
+{ color:#000; text-decoration:none;
+}
+
+
+.prd-bangle
+{ color:#783709; font-size:22px;
+}
+
+.prd-bangle a
+{ color:#783709; font-size:22px;
+}
+
+.we-own-manged-cntr
+{
+	background:url(../images/we-own-manged-cntr.html) repeat-y left top;
+	padding:0px 8px 0 10px;
+}
+.we-own-manged-cntr img
+{
+	margin:0 8px;
+}
+
+.body-top
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	
+	color:#fccf1e;
+	padding:5px 10px;
+}
+.body-top-1
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	
+	color:#fff;
+	padding:5px 10px;
+}
+
+.inner-text
+{
+	padding:0 0 0 10px;
+}
